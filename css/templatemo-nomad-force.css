@@ -896,9 +896,9 @@ strong {
     width: 35px;
     display: flex;
     position: fixed;
-    z-index: 99999;
+    z-index: 9999;
     bottom: 30px;
-    right: 39px;
+    right: 56px;
   }
  
 }
