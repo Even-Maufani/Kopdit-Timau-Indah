@@ -218,7 +218,7 @@ strong {
 }
 
 .wa .wa-image {
-  width: 35%;
+  width: 5%;
   display: flex;
   position: fixed;
   z-index: 9999;
@@ -877,12 +877,12 @@ strong {
     margin-bottom: 38px;
   }
   .wa .wa-image {
-    width: 5%;
+    width: 35px;
     display: flex;
     position: fixed;
     z-index: 9999;
-    bottom: 70px;
-    right: 80px;
+    bottom: 40px;
+    right: 20px;
   }
   
   
@@ -893,12 +893,12 @@ strong {
     font-size: 36px;
   }
   .wa .wa-image {
-    width: 5%;
+    width: 35px;
     display: flex;
     position: fixed;
     z-index: 9999;
-    bottom: 70px;
-    right: 80px;
+    bottom: 30px;
+    right: 30px;
   }
  
 }
