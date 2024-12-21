@@ -888,7 +888,7 @@ strong {
   
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 720px) {
   .news-detail-title {
     font-size: 36px;
   }
