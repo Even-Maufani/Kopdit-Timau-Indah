@@ -876,6 +876,14 @@ strong {
   .news .col-12 .news-two-column:first-child {
     margin-bottom: 38px;
   }
+  .wa .wa-image {
+    width: 5%;
+    display: flex;
+    position: fixed;
+    z-index: 9999;
+    bottom: 70px;
+    right: 80px;
+  }
   
   
 }
@@ -883,6 +891,14 @@ strong {
 @media screen and (max-width: 767px) {
   .news-detail-title {
     font-size: 36px;
+  }
+  .wa .wa-image {
+    width: 5%;
+    display: flex;
+    position: fixed;
+    z-index: 9999;
+    bottom: 70px;
+    right: 80px;
   }
  
 }
