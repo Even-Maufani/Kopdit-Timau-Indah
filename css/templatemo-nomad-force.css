@@ -893,7 +893,7 @@ strong {
     font-size: 36px;
   }
   .wa .wa-image {
-    width: 55px;
+    width: 35px;
     display: flex;
     position: fixed;
     z-index: 9999;
